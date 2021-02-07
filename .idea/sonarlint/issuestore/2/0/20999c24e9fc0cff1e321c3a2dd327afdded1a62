@@ -1,0 +1,27 @@
+
+c
+java:S2142	"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8•ú¯À÷.
+e
+java:S1192"HDefine a constant instead of duplicating this literal "Company" 3 times.(·àƒ¬8ŞÕÏÀ÷.
+c
+java:S21420"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8é÷ÈÀ÷.
+L
+java:S2200#"/Only the sign of the result should be examined.(‹‡8¡öÀÀ÷.
+N
+java:S1128",Remove this unused import 'javax.print.Doc'.(ö«‘™ıÿÿÿÿ8­½ÈÀ÷.
+L
+java:S2200<"/Only the sign of the result should be examined.(Áé‹Æ8ŞÕÏÀ÷.
+f
+java:S1192"IDefine a constant instead of duplicating this literal "Personel" 3 times.(§äú½8ŞÕÏÀ÷.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ï¢¿À÷.
+L
+java:S2200%"/Only the sign of the result should be examined.(Áé‹Æ8¡öÀÀ÷.
+L
+java:S22009"/Only the sign of the result should be examined.(‹‡8ŞÕÏÀ÷.
+e
+java:S1192"HDefine a constant instead of duplicating this literal "Genarel" 3 times.(ÓïáÑ8ŞÕÏÀ÷.
+L
+java:S2200"/Only the sign of the result should be examined.(Áé‹Æ8­ı¹À÷.
+L
+java:S2200"/Only the sign of the result should be examined.(‹‡8şğ¶À÷.

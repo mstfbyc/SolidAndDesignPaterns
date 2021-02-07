@@ -1,0 +1,4 @@
+
+o
+java:S2975 "SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ýÜÊa8ÂÊˆÁ÷.
+p	java:S116"ORename this field "Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¬­Áøÿÿÿÿ8ˆÒ§À÷.
