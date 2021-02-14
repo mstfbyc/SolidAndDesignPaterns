@@ -25,7 +25,7 @@ public class BeforeApp {
         basket.getPacketList().add(vegetablesPacket);
         basket.getPacketList().add(technoPack);
         basket.getProductList().add(soccerBall);
-        BigDecimal totalPrice = basket.getTotalrice();
+        BigDecimal totalPrice = basket.getTotalPrice();
         System.out.println("Ödenecek Tutar = "+ totalPrice + "TL");
 
     }

@@ -17,7 +17,7 @@ public class Basket {
         this.aidPackageList = new ArrayList<>();
     }
 //Open - Close Aykırı
-    public BigDecimal getTotalrice() {
+    public BigDecimal getTotalPrice() {
 
         BigDecimal totalPrice = BigDecimal.ZERO;
 

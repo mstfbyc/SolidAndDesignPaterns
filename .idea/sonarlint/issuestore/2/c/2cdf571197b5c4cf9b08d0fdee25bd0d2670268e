@@ -1,17 +1,0 @@
-
-e
-java:S2259"CA "NullPointerException" could be thrown; "clone" is nullable here.(öñµâüÿÿÿÿ8¹ÃşÀ÷.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(‚àÂ§8®ÂÜÀ÷.
-r
-java:S1192"PDefine a constant instead of duplicating this literal " Saniye sÃ¼rdÃ¼" 3 times.(™Šªùÿÿÿÿ8Ó‡óÀ÷.
-U	java:S106 "9Replace this use of System.out or System.err by a logger.(òÓËƒ8ĞúÿÀ÷.
-U	java:S106!"9Replace this use of System.out or System.err by a logger.(‚àÂ§8ĞúÿÀ÷.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(™Šªùÿÿÿÿ8í¡İÀ÷.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(™¤šÜ8Ó‡óÀ÷.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(‚àÂ§8Ó‡óÀ÷.
-Z
-java:S1854"=Remove this useless assignment to local variable "document2".(â‹İå8Ñ¢óÀ÷.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(‚àÂ§8Ó‡óÀ÷.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(÷¥ÆŒşÿÿÿÿ8Ó‡óÀ÷.
-K
-java:S1481".Remove this unused "document2" local variable.(â‹İå8Ñ¢óÀ÷.
